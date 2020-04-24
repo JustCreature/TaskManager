@@ -42,6 +42,8 @@ button {
 
 .item-name {
   padding: 18px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .item-description {
