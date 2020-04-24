@@ -9,7 +9,9 @@ $(function() {
       newItem.append(
         `<div class="item-name">
           <div>${itemName}</div>
-          <div><img class="close-item" src="/resources/img/closeMark.jpg" alt="closeMark"></div>
+          <div>
+            <img class="close-item" src="/resources/img/closeMark.jpg" alt="closeMark">
+          </div>
         </div>`
         );
       newItem.append(`<div class="item-description">${itemDescription}</div>`);
