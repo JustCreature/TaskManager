@@ -22,6 +22,10 @@ button {
   display: flex;
 }
 
+#list-empty {
+  margin-top: 49px;
+}
+
 .item {
   width: 470px;
   height: 140px;
@@ -64,6 +68,8 @@ button {
   width: 385px;
   height: 40px;
   margin-bottom: 28px;
+  background-color: #fcfcfc;
+  border: 1px solid #ebebeb;
 }
 
 .input-description {
@@ -71,6 +77,8 @@ button {
   width: 385px;
   height: 225px;
   resize: none;
+  background-color: #fcfcfc;
+  border: 1px solid #ebebeb;
 }
 
 .input-label {
