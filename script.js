@@ -10,7 +10,7 @@ $(function() {
         `<div class="item-name">
           <div>${itemName}</div>
           <div>
-            <img class="close-item" src="/resources/img/closeMark.jpg" alt="closeMark">
+            <img class="close-item" src="resources/img/closeMark.jpg" alt="closeMark">
           </div>
         </div>`
         );
